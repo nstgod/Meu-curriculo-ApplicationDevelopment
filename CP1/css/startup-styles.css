@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Quantico:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+body {
+    background-color: #f2f4f7;
+    margin: 0;
+    padding: 30px;
+    color: #444;
+    font-family: "Quantico", sans-serif;
+}
+
+.container-fintech {
+    background-color: #ffffff;
+    max-width: 850px;
+    margin: 0 auto;
+    border-radius: 6px;
+    border: 1px solid #dcdcdc;
+}
+
+.topo {
+    padding: 25px;
+    background-color: #ecf0f1;
+    border-bottom: 2px solid #dcdcdc;
+    text-align: center;
+}
+
+.conteudo {
+    padding: 35px;
+}
