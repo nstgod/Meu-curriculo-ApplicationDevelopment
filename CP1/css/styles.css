@@ -1,7 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Quantico:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 body {
     margin: 0;
     padding: 0;
     background-color: rgb(219, 221, 222);
+    font-family: "Quantico", sans-serif;
 }
 
 .Cabeçalho {
@@ -19,7 +21,7 @@ h1{
 }
 
 h2{
-    color:hwb(284 4% 2%)
+    color: #025043
 }
 
 h3{
